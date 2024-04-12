@@ -1,4 +1,4 @@
-# AppleQualityPython
+# Apple Quality Data Cleaning and Feature Engineering in Python, use of Random Forests and k-means
 
 The Apple Quality Assessment project utilizes a predictive model to enhance apple sorting processes by assessing their quality based on multiple physical and chemical characteristics. This innovation not only streamlines agribusiness operations but also boosts consumer satisfaction and strengthens brand reputation.
 
