@@ -11,6 +11,7 @@ Data was sourced from quality control data from kaggle, covering thousands of ap
 Descriptive analytics confirmed a well-distributed dataset across various apple quality categories, with key features including sugar content and acidity playing pivotal roles in quality prediction.
 
 **Visualization**
+
 Visual tools, including confusion matrices and PCA scatter plots, illustrated the data's complexity and feature interrelations.
 
  
